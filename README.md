@@ -37,3 +37,8 @@ git status
 to download modifications or uodates use command 
 
 git pull
+
+
+to commit the code use the command 
+
+git commit -m "Meaning full Message for commit"
