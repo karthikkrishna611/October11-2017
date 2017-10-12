@@ -34,7 +34,7 @@ git fetch
 git status
 
 
-to download modifications or uodates use command 
+to download modifications or updates use command 
 
 git pull
 
@@ -42,3 +42,8 @@ git pull
 to commit the code use the command 
 
 git commit -m "Meaning full Message for commit"
+
+
+to push the changes to the remote repository. Use command
+
+git push 
