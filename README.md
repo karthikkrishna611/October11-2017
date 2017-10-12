@@ -25,3 +25,10 @@ git add filename1 filename2
 or to push all files use command
 
 git add .
+
+
+to find if there are new updates use commands like
+
+git fetch
+
+git status
