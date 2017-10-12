@@ -32,3 +32,8 @@ to find if there are new updates use commands like
 git fetch
 
 git status
+
+
+to download modifications or uodates use command 
+
+git pull
