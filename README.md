@@ -25,3 +25,5 @@ git add filename1 filename2
 or to push all files use command
 
 git add .
+
+adding a new line at the end
