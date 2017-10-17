@@ -50,3 +50,13 @@ to push the changes to the remote repository. Use command
 git push 
 
 adding a new line at the end
+
+
+to checkout an existing branch use command 
+
+git checkout branchname
+
+
+to create a new branch and checkout branch use command 
+
+git checkout -b branchname
