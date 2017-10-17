@@ -1,5 +1,5 @@
 # October11-2017
-To demonstrate on how to use git and github
+To demonstrate how to use git and github
 
 to download the repository for the first time use command
 
